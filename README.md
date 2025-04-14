@@ -1,3 +1,8 @@
+🏅 Recognition
+BlueShield AI was awarded 🥈 1st Runner-Up at Sankalan’25 – IIT Kanpur, a prestigious paper presentation competition held on 5th–6th April 2025.
+
+
+
 **🌊 BlueShield-AI**
 AI-powered flood forecasting system leveraging atmospheric and hydrological data for early warning and disaster resilience.
 
